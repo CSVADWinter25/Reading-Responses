@@ -1,4 +1,8 @@
-Reading
+### Reading Week 4
+
+Choose one of the following:
+
+[Casey Reas and Chandler McWilliams, 2010. Form+Code in Design, Art, and Architecture. Princeton Architectural Press (2010) - Parameterize](https://drive.google.com/file/d/1onBdfSu9dTlMCx_7Kb_f5TjS6HP-PaCO/view?usp=drive_link)
 
 [Patrik Schumacher. 2009. Parametricism: A New Global Style for Architecture and Urban Design. Architectural Design, 79(4), 14–23. doi:10.1002/ad.912](https://drive.google.com/file/d/1r4HOzn9Kn_uhATih0ST81PukqIgwlmGC/view?usp=drive_link) 
 
